@@ -64,6 +64,7 @@ gem "view_component", "~> 2.69.0"
 gem "whenever", "~> 1.0.0", require: false
 gem "wicked_pdf", "~> 2.6.3"
 gem "wkhtmltopdf-binary", "~> 0.12.6"
+gem 'net-smtp', require: false
 
 source "https://rails-assets.org" do
   gem "rails-assets-leaflet"
